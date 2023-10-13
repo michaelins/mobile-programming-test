@@ -1,0 +1,15 @@
+{
+    "schemaVersion": "v1",
+    "tracks": [
+        {
+            "id": 1,
+            "title": "Amazing Grace",
+            "artist": "Kevin MacLeod",
+            "album": "Free PD",
+            "year": 2005,
+            "genre": "Jazz",
+            "url": "http://example.com/ag.mp3",
+            "cover": "http://example.com/ag.jpg"
+        }
+    ]
+}
